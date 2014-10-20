@@ -12,6 +12,7 @@ Useful-Libraries
   - [Masonry](#masonry)
 - Node
   - [i18n](#i18n)
+  - [reuqest](#request)
 
 ##Bootstrap
 http://getbootstrap.com/
@@ -29,3 +30,6 @@ Masonry is a JavaScript grid layout library. It works by placing elements in opt
 
 ##i18n
 i18next is a full-featured javascript library for translating your webapplication. Used for localization. See https://github.com/mashpie/i18n-node & http://i18next.com/node/index.html
+
+##request
+Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default. See https://github.com/mikeal/request
